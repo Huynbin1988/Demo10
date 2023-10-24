@@ -199,7 +199,15 @@ footer .glyphicon {
 #myimg2:hover {
   box-shadow: 0 0 2px 1px red;
 }
-
+#myimg3 {
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  padding: 5px;  
+  width: 30%;
+  float:right;
+  margin-left: 100px;
+  margin-top:10px;
+}
 .dropdown-menu {
   background-color: #006400;
   }
