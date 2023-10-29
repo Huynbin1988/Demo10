@@ -56,6 +56,10 @@ background: linear-gradient(0deg, rgba(125,247,7,1) 0%, rgba(18,131,8,1) 53%, rg
 border: 2px solid green;
 padding: 25px;
 }
+.promotion-sm-8 img:hover{
+  border: 2px solid green;
+  padding: 25px;
+}
 .container-fluid img{
   width: 300px;
   height: 300px;
