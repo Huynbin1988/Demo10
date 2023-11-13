@@ -31,11 +31,11 @@ background: linear-gradient(0deg, rgba(125,247,7,1) 0%, rgba(18,131,8,1) 53%, rg
   background-color: #f6f6f6;
 }
 .logo-small {
-  color: #006400;
+  color: #031F34;
   font-size: 50px;
 }
 .logo {
-  color: #006400;
+  color: #031F34;
   font-size: 200px;
 }
 .thumbnail {
@@ -53,7 +53,7 @@ background: linear-gradient(0deg, rgba(125,247,7,1) 0%, rgba(18,131,8,1) 53%, rg
   padding: 15px;
 }
 .thumbnail img:hover{
-border: 2px solid green;
+border: 2px solid #031F34;
 padding: 25px;
 }
 img.myimg{
@@ -62,7 +62,7 @@ img.myimg{
   padding: 15px;  
 }
 img.myimg:hover {
-  border: 2px solid green;
+  border: 2px solid #031F34;
   padding: 25px;  
 }
 .container-fluid img{
@@ -80,19 +80,19 @@ img.myimg:hover {
   padding: 15px;
 }
 .item img:hover{
-  border: 2px solid green;
+  border: 2px solid #031F34;
   padding: 25px;
 }
 .carousel-control.right,
 .carousel-control.left {
   background-image: none;
-  color: #006400;
+  color: #031F34;
 }
 .carousel-indicators li {
-  border-color: #006400;
+  border-color: #031F34;
 }
 .carousel-indicators li.active {
-  background-color: #006400;
+  background-color: #031F34;
 }
 .item h4 {
   font-size: 19px;
@@ -105,7 +105,7 @@ img.myimg:hover {
   font-style: normal;
 }
 .panel {
-  border: 1px solid #006400;
+  border: 1px solid #031F34;
   border-radius: 0 !important;
   transition: box-shadow 0.5s;
 }
@@ -113,13 +113,13 @@ img.myimg:hover {
   box-shadow: 5px 0px 40px rgba(0, 0, 0, 0.2);
 }
 .panel-footer .btn:hover {
-  border: 1px solid #006400;
+  border: 1px solid #031F34;
   background-color: #fff !important;
-  color: #006400;
+  color: #031F34;
 }
 .panel-heading {
   color: #fff !important;
-  background-color: #006400 !important;
+  background-color: #3A4F55 !important;
   padding: 25px;
   border-bottom: 1px solid transparent;
   border-top-left-radius: 0px;
@@ -139,12 +139,12 @@ img.myimg:hover {
 }
 .panel-footer .btn {
   margin: 15px 0;
-  background-color: #006400;
+  background-color: #031F34;
   color: #fff;
 }
 .navbar {
   margin-bottom: 0;
-  background-color: #006400;
+  background-color: #031F34;
   z-index: 9999;
   border: 0;
   font-size: 12px !important;
@@ -170,7 +170,7 @@ img.myimg:hover {
 footer .glyphicon {
   font-size: 20px;
   margin-bottom: 20px;
-  color: #006400;
+  color: #031F34;
 }
 .slideanim {
   visibility: hidden;
@@ -218,13 +218,13 @@ footer .glyphicon {
   margin-top:10px;
 }
 .dropdown-menu {
-  background-color: #006400;
+  background-color: #031F34;
   }
   .dropdown-menu li.active a {
   color: #fff !important;
-  background-color:#006400 !important;
+  background-color:#031F34 !important;
   }
   .dropdown-menu li a:hover {
   color: #fff !important;
-  background-color: #006400 !important;
+  background-color: #031F34 !important;
   }
